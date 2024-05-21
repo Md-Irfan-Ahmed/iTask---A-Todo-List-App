@@ -1,6 +1,6 @@
-# iTask - Manage your to dos at one place
+# iTask - Manage Your To Dos At One Place
 
-# React + Vite
+React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
