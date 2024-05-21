@@ -1,4 +1,4 @@
-#iTask - Manage your to dos at one place
+# iTask - Manage your to dos at one place
 
 # React + Vite
 
